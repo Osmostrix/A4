@@ -1,3 +1,3 @@
 # A4
-Java Assignment #4 (Adventure Game Upgrade)/n
+Java Assignment #4 (Adventure Game Upgrade)
 Run Test.java
